@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Ainuvain or sometimes known as Ainut
+
+- I'm currently an ICT Engineering student specializing in Networks
+
+- I'm really interested in cybersecurity and I've recently started to make some writeups from the rooms in [TryHackMe](https://tryhackme.com/). You can find them on my [githubpage](https://ainuvain.github.io/)
+
 <!--
 **Ainuvain/Ainuvain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
